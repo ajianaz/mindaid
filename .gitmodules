@@ -1,0 +1,6 @@
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/ajianaz/mindaid-backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ajianaz/mindaid-backend.git
